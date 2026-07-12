@@ -1,0 +1,17 @@
+{
+  "speech": {
+    "goodMorning": "bonjour",
+    "goodEvening": "bonsoir",
+    "greeting": "$$ $$",
+    "defaultGreeting": "$$ $$",
+    "everyone": "tout le monde",
+    "replace": {
+      "mon": "le",
+      "mes": "les",
+      "aux": "les",
+      "le": "le",
+      "la": "",
+      "ma": ""
+    }
+  }
+}
