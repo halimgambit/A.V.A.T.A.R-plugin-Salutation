@@ -1,0 +1,1 @@
+Permet à A.V.A.T.A.R de transmettre des salutations à une personne ou à un groupe. Le plugin choisit automatiquement la formule adaptée selon l'heure (bonjour ou bonsoir) ou utilise la salutation demandée par l'utilisateur.

@@ -1,0 +1,17 @@
+{
+  “speech”: {
+    “goodMorning”: “good morning”,
+    “goodEvening”: “good evening”,
+    “greeting”: “$$ $$”,
+    “defaultGreeting”: “$$ $$”,
+    “everyone”: “everyone”,
+    “replace” : {
+      “my” : “the”,
+      “my” : “the”,
+      “to” : “the”,
+      “the” : “the”,
+      “the” : “”,
+      “my” : “”
+    }
+  }
+}
