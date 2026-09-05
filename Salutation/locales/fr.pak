@@ -1,6 +1,7 @@
 {
   "speech": {
     "goodMorning": "bonjour",
+    "goodAfternoon": "bon après‑midi",
     "goodEvening": "bonsoir",
     "greeting": "$$ $$",
     "defaultGreeting": "$$ $$",
