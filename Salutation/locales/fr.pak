@@ -1,18 +1,18 @@
 {
-  "speech": {
-    "goodMorning": "bonjour",
-    "goodAfternoon": "bon après‑midi",
-    "goodEvening": "bonsoir",
+  speech: {
+    "goodMorning": "hello",
+    "goodAfternoon": "good afternoon",
+    "goodEvening": "good evening",
     "greeting": "$$ $$",
     "defaultGreeting": "$$ $$",
     "everyone": "tout le monde",
-    "replace": {
-      "mon": "le",
-      "mes": "les",
-      "aux": "les",
-      "le": "le",
-      "la": "",
-      "ma": ""
+    replace: {
+      "my": "the",
+      "my": "the",
+      "to": "the",
+      "the": "the",
+      "the": "",
+      "my": ""
     }
   }
 }
